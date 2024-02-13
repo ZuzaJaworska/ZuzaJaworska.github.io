@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://f0530273-e2c6-4890-84b1-4c4fae0cdd71-00-3svm7ownx0mdi.spock.replit.dev//v1/tasks';
+  var apiRoot = 'https://f0530273-e2c6-4890-84b1-4c4fae0cdd71-00-3svm7ownx0mdi.spock.replit.dev/v1/tasks';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
